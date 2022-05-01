@@ -63,7 +63,8 @@ footer {
 What does the justify-content property do? 
 TODO: Write your answer here 
 
-
+The justify-content property alings 
+flex items at desired parts of a container
 */
 .products {
   flex: 4;
