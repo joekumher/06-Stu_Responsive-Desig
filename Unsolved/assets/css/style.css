@@ -79,6 +79,16 @@ flex items at desired parts of a container
 What is the flex property a shorthand property for?
 What is it doing here? 
 TODO: Write your answer here 
+
+The flex-property is a shorthand property for
+flex-grow
+flex shrink
+flex-basis
+
+What it's doing here is saying that the card with flex property 
+is set with an initial length of 400px and 
+upon stretch or shrink the size will not change
+
 */
 .card {
   border-style: solid;
@@ -104,6 +114,9 @@ TODO: Write your answer here
 What does the flex-direction property define?
 What is it doing here? 
 TODO: Write your answer here 
+
+The flex
+
 */
 @media screen and (max-width: 768px) {
 
