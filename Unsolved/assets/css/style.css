@@ -36,7 +36,8 @@ nav a {
 What is the flex-wrap property? 
 TODO: Write your answer here 
 
-
+The flex-wrap property sets whether flex items are forced onto 
+one line or can wrap onto multiple lines
 */
 main {
   display: flex;
@@ -61,6 +62,8 @@ footer {
 /* 
 What does the justify-content property do? 
 TODO: Write your answer here 
+
+
 */
 .products {
   flex: 4;
@@ -102,6 +105,7 @@ What is it doing here?
 TODO: Write your answer here 
 */
 @media screen and (max-width: 768px) {
+
   main,
   nav {
     flex-direction: column;
